@@ -1,0 +1,70 @@
+body{
+	background-image: url('background.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+background {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input{
+    width: 200px;
+    margin: 10px auto;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 4px;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+
+SELECT{
+    width: 200px;
+    margin: 10px auto;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 4px;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+textarea{
+    width: 200px;
+    margin: 10px auto;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 4px;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+.footer {
+   position: fixed;
+   left: 450;
+   bottom: 0;
+   width: 100%;
+   color: black;
+   text-align: center;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+
+
+
+.btn {
+  background-color: #2A2828;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+
+.btn:hover {
+  background-color: RoyalBlue;
+	cursor: url("https://img.icons8.com/small/2x/cursor.png") 2 2, auto;
+}
+
